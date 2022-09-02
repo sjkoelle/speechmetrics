@@ -19,7 +19,7 @@ setup(
 	    # and there is a pip3 conflict if we have the following
 	    # line.
         #'gammatone @ git+https://github.com/detly/gammatone',
-        'pypesq @ git+https://github.com/vBaiCai/python-pesq',
+#         'pypesq @ git+https://github.com/vBaiCai/python-pesq',
         'srmrpy @ git+https://github.com/jfsantos/SRMRpy',
         'pesq @ git+https://github.com/ludlows/python-pesq',
     ],
