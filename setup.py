@@ -15,7 +15,7 @@ setup(
         'resampy',
         'pystoi',
         'museval',
-	'pesq',
+	'pesq==0.0.3',
         # This is requred, but srmrpy pull it in,
 	    # and there is a pip3 conflict if we have the following
 	    # line.
